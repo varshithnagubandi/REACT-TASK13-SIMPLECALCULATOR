@@ -18,7 +18,7 @@ function App() {
     <div>
       <center>
         <div>
-          <h1 className="heading">- - - CALCULATOR - - -</h1>
+          <h1 className="heading">- - - - CALCULATOR - - - -</h1>
         </div>
         <div>
           <input
